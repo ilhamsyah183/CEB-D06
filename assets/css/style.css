@@ -168,3 +168,14 @@ footer p{
     padding-top: 20px;
     width:52px;
 }
+
+#ordernow {
+    background-color: #192a56;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+    margin-bottom: 50px;
+    margin-left: 480px;
+}
+
