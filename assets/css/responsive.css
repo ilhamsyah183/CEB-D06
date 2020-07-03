@@ -17,6 +17,15 @@
     .column-comment .avatar-comment{
         font-size: 14px;
     }
+    #ordernow {
+        background-color: #192a56;
+        color: #fff;
+        border-radius: 10px;
+        text-align: center;
+        float: left;
+        margin-bottom: 50px;
+        margin-left: 250px;
+    }
 }
 /* For Smartphone*/
 @media (max-width:670px){
@@ -34,5 +43,14 @@
     }
     .detail-right{
         width: 100%;
+    }
+    #ordernow {
+        background-color: #192a56;
+        color: #fff;
+        border-radius: 10px;
+        text-align: center;
+        float: left;
+        margin-bottom: 25px;
+        margin-left: 150px;
     }
 }
